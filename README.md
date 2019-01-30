@@ -1,0 +1,2 @@
+# smallTeams
+GitHub Pages
