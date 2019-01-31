@@ -1783,13 +1783,16 @@ body {
 .cid-rgDTUBNsWU .mbr-section-btn {
   text-align: left;
 }
+.cid-rgDTUBNsWU B {
+  color: #ffffff;
+}
 .cid-rgEQuIxFhX {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #285964;
 }
 .cid-rgEQuIxFhX .mbr-section-subtitle {
-  color: #ffffff;
+  color: #efefef;
   font-weight: 300;
 }
 .cid-rgEQuIxFhX .mbr-content-text {
@@ -1827,13 +1830,17 @@ body {
 .cid-rgKp9xE4Qj {
   background: linear-gradient(45deg, #0f7699, #0a3941);
 }
+.cid-rgKp9xE4Qj .mbr-text,
+.cid-rgKp9xE4Qj .mbr-section-btn {
+  color: #efefef;
+}
 .cid-rgKru4htYr {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #0a3941;
 }
 .cid-rgKru4htYr .mbr-section-subtitle {
-  color: #cccccc;
+  color: #efefef;
   font-weight: 300;
 }
 .cid-rgKru4htYr .mbr-content-text {
@@ -1885,7 +1892,7 @@ body {
   color: #ffffff;
 }
 .cid-rgKru4htYr H4 {
-  color: #ffffff;
+  color: #efefef;
 }
 .cid-rgKBVpGM5b {
   background-image: url("../../../assets/images/pinetreessmall-2000x1000.jpg");
