@@ -1834,6 +1834,39 @@ body {
 .cid-rgKp9xE4Qj .mbr-section-btn {
   color: #efefef;
 }
+.cid-ri2sQMpn3j {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/screen-shot-2019-02-14-at-5.24.57-pm-1944x826.png");
+}
+.cid-ri2sQMpn3j .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-ri2sQMpn3j .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-ri2sQMpn3j .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ri2sQMpn3j .mbr-text {
+    text-align: center;
+  }
+}
+.cid-ri2s7koAwm {
+  background: linear-gradient(45deg, #55b4d4, #073b4c);
+}
+.cid-ri2s7koAwm .mbr-text,
+.cid-ri2s7koAwm .mbr-section-btn {
+  text-align: left;
+}
 .cid-rgKru4htYr {
   padding-top: 90px;
   padding-bottom: 90px;
