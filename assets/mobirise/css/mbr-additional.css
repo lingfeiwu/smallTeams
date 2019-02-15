@@ -1867,65 +1867,55 @@ body {
 .cid-ri2s7koAwm .mbr-section-btn {
   text-align: left;
 }
-.cid-rgKru4htYr {
+.cid-ri7J7NH4hC {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #0a3941;
 }
-.cid-rgKru4htYr .mbr-section-subtitle {
-  color: #efefef;
-  font-weight: 300;
+.cid-ri7J7NH4hC h2 {
+  margin-bottom: 0;
 }
-.cid-rgKru4htYr .mbr-content-text {
+.cid-ri7J7NH4hC h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
+}
+.cid-ri7J7NH4hC p {
   color: #767676;
   margin-bottom: 0;
 }
-.cid-rgKru4htYr .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
+.cid-ri7J7NH4hC .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #0a3941;
+  position: relative;
+  justify-content: unset;
 }
-.cid-rgKru4htYr .img-text {
-  width: 42px;
-  height: 42px;
-  font-size: 21px;
-  border: 2px solid #787324;
-  border-radius: 50%;
+.cid-ri7J7NH4hC .card-wrapper .card-box {
+  padding: 2rem 1rem;
+  width: 100%;
 }
-@media (min-width: 992px) {
-  .cid-rgKru4htYr .cards-block {
-    border-top: 2px solid #787324;
-  }
-}
-.cid-rgKru4htYr .cards-block .card {
-  border-bottom: 2px solid #787324;
-  border-radius: 0;
-}
-.cid-rgKru4htYr .cards-container {
+.cid-ri7J7NH4hC .card-wrapper .card-box .top-line {
   display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-ri7J7NH4hC .card-wrapper .card-box .bottom-line {
+  width: 70%;
 }
 @media (max-width: 767px) {
-  .cid-rgKru4htYr .panel-item {
-    flex-direction: column;
-    align-items: center;
+  .cid-ri7J7NH4hC .card-wrapper .card-box .bottom-line {
+    width: 100%;
   }
-  .cid-rgKru4htYr .panel-item .card-img {
-    padding: 0;
-    padding-bottom: 1rem;
+  .cid-ri7J7NH4hC .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
   }
 }
-.cid-rgKru4htYr .mbr-section-title B {
+.cid-ri7J7NH4hC B {
   color: #ffffff;
 }
-.cid-rgKru4htYr H4 {
-  color: #efefef;
+.cid-ri7J7NH4hC .card-title {
+  color: #e4d295;
 }
 .cid-rgKBVpGM5b {
   background-image: url("../../../assets/images/pinetreessmall-2000x1000.jpg");
